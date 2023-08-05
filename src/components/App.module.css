@@ -3,13 +3,13 @@
     display: block;
     text-align: center;
     align-items: center;
-    font-size: 35px;
+    font-size: 20px;
     
     background-color: rgb(212, 206, 206);
 
 }
 
 .title {
-    padding-top: 40px;
+    padding-top: 30px;
     margin-top: 0;
 }

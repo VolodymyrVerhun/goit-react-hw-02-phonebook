@@ -2,7 +2,7 @@
     display: flex;
     flex-direction: column;
     /* align-items: center; */
-    width: 600px;
+    width: 500px;
     margin: 0 auto;
     padding: 20px;
    background-color: rgba(189, 222, 175, 0.913);
@@ -13,7 +13,7 @@
 
 .label {
 
-font-size: 25px;
+font-size: 15px;
 width: 415px;
 font-weight: bold;
 margin-bottom: 5px;
@@ -24,8 +24,8 @@ font-weight: 300;
 .input {
 background-color: rgb(206, 222, 206);
 padding: 10px;
-height: 50px;
-font-size: 30px;
+height: 40px;
+font-size: 25px;
   border: 1px solid #ccc;
   border-radius: 5px;
   margin-bottom: 10px;
@@ -41,7 +41,7 @@ font-size: 30px;
     border-radius: 5px;
     cursor: pointer;
     width: 200px;
-    font-size: 20px;
+    font-size: 15px;
     margin-top: 20px;
 }
 .btn:hover {
