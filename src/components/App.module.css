@@ -1,0 +1,15 @@
+.phonebook {
+    height: 100vh;
+    display: block;
+    text-align: center;
+    align-items: center;
+    font-size: 35px;
+    
+    background-color: rgb(212, 206, 206);
+
+}
+
+.title {
+    padding-top: 40px;
+    margin-top: 0;
+}
